@@ -40,7 +40,8 @@
 
 //using the feature of JavaScript  destructuring assignment. 
 
-let a = 10;
-let b = 20;
-[a,b] = [b,a]
-console.log(a,b);
+// let a = 10;
+// let b = 20;
+// [a,b] = [b,a]
+// console.log(a,b);
+
