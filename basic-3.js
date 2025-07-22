@@ -33,8 +33,14 @@
 
 // console.log(a,b);
 
+//third method
 
 
 
 
+//using the feature of JavaScript  destructuring assignment. 
 
+let a = 10;
+let b = 20;
+[a,b] = [b,a]
+console.log(a,b);
