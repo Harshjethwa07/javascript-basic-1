@@ -2,6 +2,4 @@
 
 console.log("hello world");
 
-//console.log()  static method outputs a message to the console.
-
-
+//console.log()  static method outputs a message to the cons
