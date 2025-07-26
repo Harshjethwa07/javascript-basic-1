@@ -32,6 +32,13 @@
 // console.log(a);
 
 
+//question 5 error in this code syntax error
+
+// let a = 10;
+// let b = ++(a++);
+// console.log(b);
+
+
 
 
 
