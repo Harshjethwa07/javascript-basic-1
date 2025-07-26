@@ -26,6 +26,13 @@
 // console.log(b);
 
 
+//question 4 problam is code calle  syntax error
+
+// let a = 11++;
+// console.log(a);
+
+
+
 
 
 
