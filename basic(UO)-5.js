@@ -12,12 +12,19 @@
 
 //question 2 sloved
 
-let a = 11;
-let b = 22;
-let c = a + b + a++ + b++ + ++a + ++b;
-console.log("a=" + a);
-console.log("b=" + b);
-console.log("c=" + c);
+// let a = 11;
+// let b = 22;
+// let c = a + b + a++ + b++ + ++a + ++b;
+// console.log("a=" + a);
+// console.log("b=" + b);
+// console.log("c=" + c);
+
+//question 3 sloved
+
+// let b  =true;
+// b= ++b
+// console.log(b);
+
 
 
 
